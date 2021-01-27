@@ -1,4 +1,4 @@
-## First Name Last Name
+## Connor Oberhofer
 
 ### Term Year 
 

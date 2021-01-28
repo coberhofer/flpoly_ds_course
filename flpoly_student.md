@@ -18,8 +18,8 @@ Business Analytics student at [Florida Polytechnic University](https://www.flori
 
 I am _passionate about_: 
 
-- Skiing down mountains
-
 - Golf
 
-- Fishing as shown in this website <https://www.floridapoly.edu>
+- Fishing
+
+- Skiing mountains as shown in this website <https://www.skimag.com>

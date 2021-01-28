@@ -1,23 +1,25 @@
 ## Connor Oberhofer
 
-### Term Year 
+### Spring 2021 
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+Business Analytics student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Database 1
 
-- Course 2
+- Intro to Data Science
 
-- Course 3
+- Lean Operations Management
 
-- Course 4
+- Operations Research
+
+- Reverse Logistics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Skiing down mountains
 
-- Thing 2
+- Golf
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Fishing as shown in this website <https://www.floridapoly.edu>

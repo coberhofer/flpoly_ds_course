@@ -14,9 +14,9 @@ Business Analytics student at [Florida Polytechnic University](https://www.flori
 
 - Reverse Logistics
 
-| heading | heading | heading |
-| --- | --- | --- |
-| content | more | text |
+| Database 1 | Intro to Data Science | Lean Operations Management | Operations Research | Reverse Logistics |
+| --- | --- | --- | --- | --- |
+| **COP3710** | **COP2073** | **MAN4558** | **EGN3448** | **MAN4594** |
 
 **Hobbies:**
 

@@ -15,7 +15,7 @@ Business Analytics student at [Florida Polytechnic University](https://www.flori
 - Reverse Logistics
 
 | heading | heading | heading |
-| - - - | - - - | - - - |
+| --- | --- | --- |
 | content | more | text |
 
 **Hobbies:**

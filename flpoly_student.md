@@ -4,16 +4,6 @@
 
 Business Analytics student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Database 1
-
-- Intro to Data Science
-
-- Lean Operations Management
-
-- Operations Research
-
-- Reverse Logistics
-
 | _Database 1_ | _Intro to Data Science_ | _Lean Operations Management_ | _Operations Research_ | _Reverse Logistics_ |
 | --- | --- | --- | --- | --- |
 | **COP** | **COP** | **MAN** | **EGN** | **MAN** |
